@@ -1,3 +1,5 @@
+![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
+
 # 📊 Pandas Notes 🐼
 
 Welcome to my **Pandas Notes** repository! This repo contains my personal notes and resources for mastering **Pandas**, a powerful data manipulation and analysis library in Python. Whether you're just getting started or brushing up on your skills, these notes are here to help you. 🚀
